@@ -18,7 +18,7 @@ public class HarryPotter {
 
 	private boolean cloakOn;
 
-	HarryPotter() {
+	void HarryPotter() {
 		System.out.println("making Harry Potter...");
 	}
 
